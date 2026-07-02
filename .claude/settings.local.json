@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node \"C:\\\\Users\\\\mi-ex\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-mi-ex-OneDrive-Desktop-shariah-screener\\\\3cb3dfe3-0498-43bc-a575-6a36ce4a548e\\\\scratchpad\\\\test_screen3.js\")",
+      "Bash(grep -n 'getElementById\\(\\\\`' index.html)"
+    ]
+  }
+}
